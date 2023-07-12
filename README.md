@@ -15,4 +15,5 @@ In my free time, I enjoy solving Rubik's cubes and playing music.
 
 **Other:** Figma, Vercel, Supabase
 ## 🔗 Links
+[![portfolio](https://manduredev.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomanduré)
