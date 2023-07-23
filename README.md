@@ -13,6 +13,6 @@ In my free time, I enjoy solving Rubik's cubes and playing music.
 
 **Back:** JavaScript, Node, Express, MongoDB, Mongoose, MySQL, Sequalize
 
-**Other:** Figma, Vercel, Supabase
+**Other:** Git, Figma, Vercel, Supabase
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomandur%C3%A9/)
