@@ -29,8 +29,6 @@ In my free time, I enjoy solving Rubik's cubes and playing music.
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </div>
 
-**Other:** Git, Figma, Vercel, Supabase
-
 **Learning:** <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 </div>
