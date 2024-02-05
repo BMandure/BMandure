@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Bruno Manduré, a Full-Stack Developer
+# 👋 Hi, I'm Bruno Manduré, Full-Stack Developer
 
 ## 🧑‍ A Bit About Me
 I'm a developer focused in the MERN stack with strong knowledge in SQL data bases.
